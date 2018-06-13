@@ -1,0 +1,48 @@
+sample_Id;lake_name;sampling_date;latitude;longitude
+Schulensmeer_24oct08;Schulensmeer;24/10/2008;50,961342;5,146583
+Schulensmeer_29may08;Schulensmeer;19/05/2008;50,961342;5,146583
+Schulensmeer_19jun08;Schulensmeer;19/06/2008;50,961342;5,146583
+Schulensmeer_14jul08;Schulensmeer;14/07/2008;50,961342;5,146583
+Schulensmeer_27aug08;Schulensmeer;27/08/2008;50,961342;5,146583
+Schulensmeer_22sep08;Schulensmeer;22/09/2008;50,961342;5,146583
+Blokkersdijk_9apr08;Blokkersdijk;9/04/2008;51,232794;4,347203
+Blokkersdijk_7may08;Blokkersdijk;7/05/2008;51,232794;4,347203
+Blokkersdijk_27jun08;Blokkersdijk;27/06/2008;51,232794;4,347203
+Blokkersdijk_16jul08;Blokkersdijk;16/07/2008;51,232794;4,347203
+Blokkersdijk_25aug08;Blokkersdijk;25/08/2008;51,232794;4,347203
+Blokkersdijk_29sep08;Blokkersdijk;29/09/2008;51,232794;4,347203
+Vinne_25apr08;Vinne;25/04/2008;50,8414;5,125887
+Vinne_29may08;Vinne;29/05/2008;50,8414;5,125887
+Vinne_19jun08;Vinne;19/06/2008;50,8414;5,125887
+Vinne_14jul08;Vinne;14/07/2008;50,8414;5,125887
+Vinne_27aug08;Vinne;27/08/2008;50,8414;5,125887
+Vinne_22sep08;Vinne;22/09/2008;50,8414;5,125887
+GroteVijverMechelen_9apr08;GroteVijver;9/04/2008;51,064583;4,441574
+GroteVijverMechelen_7may08;GroteVijver;7/05/2008;51,064583;4,441574
+GroteVijverMechelen_27jun08;GroteVijver;27/06/2008;51,064583;4,441574
+GroteVijverMechelen_16jul08;GroteVijver;16/07/2008;51,064583;4,441574
+GroteVijverMechelen_25aug08;GroteVijver;25/08/2008;51,064583;4,441574
+GroteVijverMechelen_19sep08;GroteVijver;19/09/2008;51,064583;4,441574
+GaversHarelbeke_27apr11;Gavermeer;27/04/2011;50,843523;3,322521
+KanaalplasDeMaat_16apr13;De Maat;16/04/2013;51,231107;5,17179
+KanaalplasDeMaat_21may13;De Maat;21/05/2013;51,231107;5,17179
+KanaalplasDeMaat_19jun13;De Maat;19/06/2013;51,231107;5,17179
+KanaalplasDeMaat_17jul13;De Maat;17/07/2013;51,231107;5,17179
+KanaalplasDeMaat_21aug13;De Maat;21/08/2013;51,231107;5,17179
+KanaalplasDeMaat_17sep13;De Maat;17/09/2013;51,231107;5,17179
+KanaalplasDeMaat_24oct13;De Maat;24/10/2013;51,231107;5,17179
+RauwseMeer_17apr13;Rauwse Meer;17/04/2013;51,225278;5,200833
+RauwseMeer_21may13;Rauwse Meer;21/05/2013;51,225278;5,200833
+RauwseMeer_19jun13;Rauwse Meer;19/06/2013;51,225278;5,200833
+RauwseMeer_17jul13;Rauwse Meer;17/07/2013;51,225278;5,200833
+RauwseMeer_21aug13;Rauwse Meer;21/08/2013;51,225278;5,200833
+RauwseMeer_17sep13;Rauwse Meer;17/09/2013;51,225278;5,200833
+RauwseMeer_24oct13;Rauwse Meer;24/10/2013;51,225278;5,200833
+Hazewinkel_23apr14;Hazewinkel;23/04/2014;51,066341;4,392004
+Hazewinkel_20may14;Hazewinkel;20/05/2014;51,066341;4,392004
+Hazewinkel_17jun14;Hazewinkel;17/06/2014;51,066341;4,392004
+Hazewinkel_29jul14;Hazewinkel;29/07/2014;51,066341;4,392004
+Hazewinkel_26aug14;Hazewinkel;26/08/2014;51,066341;4,392004
+Hazewinkel_23sep14;Hazewinkel;23/09/2014;51,066341;4,392004
+Hazewinkel_7oct14;Hazewinkel;7/10/2014;51,066341;4,392004
+;;;;
