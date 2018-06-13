@@ -1,0 +1,292 @@
+occurrenceID,type,eventID,scientificName,basisOfRecord,samplingProtocol,identifiedBy,species,oranismQuantityType,organismQuantity
+Ugent:Ecopot1:0000,event,Kessenich_31may07,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,13291.60
+Ugent:Ecopot1:0001,event,Heerenlaak_22jun07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,6401.09
+Ugent:Ecopot1:0002,event,Kessenich_24aug07,Pseudoanabaena,HumanObservation,watersample,J. Van Wichelen,Pseudoanabaena,Calculated Individuals per liter,5409.37
+Ugent:Ecopot1:0003,event,Kessenich_18apr07,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,4958.59
+Ugent:Ecopot1:0004,event,Kessenich_12jul07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,3624.28
+Ugent:Ecopot1:0005,event,Kessenich_22jun07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,3326.76
+Ugent:Ecopot1:0007,event,Kessenich_18apr07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,1893.28
+Ugent:Ecopot1:0008,event,Heerenlaak_17apr07,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,1502.60
+Ugent:Ecopot1:0009,event,Kessenich_22jun07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_smaler25,Calculated Individuals per liter,1460.53
+Ugent:Ecopot1:0010,event,Heerenlaak_24aug07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,1365.87
+Ugent:Ecopot1:0011,event,Heerenlaak_12jul07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,1352.34
+Ugent:Ecopot1:0012,event,Heerenlaak_22jun07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,1172.03
+Ugent:Ecopot1:0013,event,Heerenlaak_24aug07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,1081.87
+Ugent:Ecopot1:0014,event,Kessenich_31may07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,1004.60
+Ugent:Ecopot1:0015,event,Kessenich_12jul07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,973.69
+Ugent:Ecopot1:0016,event,Heerenlaak_6sep06,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,800.59
+Ugent:Ecopot1:0017,event,Heerenlaak_20oct06,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,784.36
+Ugent:Ecopot1:0019,event,Heerenlaak_12jul07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,662.65
+Ugent:Ecopot1:0020,event,Kessenich_7sep06,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,604.58
+Ugent:Ecopot1:0021,event,Heerenlaak_6sep06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,519.30
+Ugent:Ecopot1:0022,event,Heerenlaak_17apr07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,465.81
+Ugent:Ecopot1:0023,event,Kessenich_12jul07,Tribonema,HumanObservation,watersample,J. Van Wichelen,Tribonema,Calculated Individuals per liter,459.80
+Ugent:Ecopot1:0024,event,Kessenich_24aug07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,431.75
+Ugent:Ecopot1:0026,event,Kessenich_7sep06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,318.20
+Ugent:Ecopot1:0027,event,Kessenich_31may07,Micractinium,HumanObservation,watersample,J. Van Wichelen,Micractinium,Calculated Individuals per liter,309.11
+Ugent:Ecopot1:0029,event,Heerenlaak_20oct06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella_10Âµm,Calculated Individuals per liter,297.52
+Ugent:Ecopot1:0030,event,Kessenich_18apr07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,270.47
+Ugent:Ecopot1:0031,event,Heerenlaak_12jul07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_smaler25,Calculated Individuals per liter,270.47
+Ugent:Ecopot1:0032,event,Heerenlaak_20oct06,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,236.66
+Ugent:Ecopot1:0033,event,Heerenlaak_6sep06,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,227.19
+Ugent:Ecopot1:0035,event,Heerenlaak_6sep06,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,216.37
+Ugent:Ecopot1:0036,event,Heerenlaak_31may07,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,204.20
+Ugent:Ecopot1:0037,event,Heerenlaak_6sep06,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,194.74
+Ugent:Ecopot1:0039,event,Heerenlaak_17apr07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_smaler25,Calculated Individuals per liter,180.31
+Ugent:Ecopot1:0040,event,Kessenich_18apr07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,180.31
+Ugent:Ecopot1:0041,event,Kessenich_7sep06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella_10Âµm,Calculated Individuals per liter,167.05
+Ugent:Ecopot1:0042,event,Heerenlaak_17apr07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,165.29
+Ugent:Ecopot1:0045,event,Heerenlaak_6sep06,Dictyosphaerium,HumanObservation,watersample,J. Van Wichelen,Dictyosphaerium,Calculated Individuals per liter,140.64
+Ugent:Ecopot1:0046,event,Heerenlaak_31may07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,140.03
+Ugent:Ecopot1:0047,event,Kessenich_18apr07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_smaler25,Calculated Individuals per liter,135.23
+Ugent:Ecopot1:0048,event,Kessenich_12jul07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_smaler25,Calculated Individuals per liter,135.23
+Ugent:Ecopot1:0049,event,Heerenlaak_20oct06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,128.47
+Ugent:Ecopot1:0050,event,Kessenich_20oct06,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,128.36
+Ugent:Ecopot1:0051,event,Kessenich_31may07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_smaler25,Calculated Individuals per liter,115.92
+Ugent:Ecopot1:0052,event,Kessenich_22jun07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,108.19
+Ugent:Ecopot1:0053,event,Kessenich_12jul07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,108.19
+Ugent:Ecopot1:0054,event,Kessenich_22jun07,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,108.19
+Ugent:Ecopot1:0055,event,Heerenlaak_17apr07,Dinobryon,HumanObservation,watersample,J. Van Wichelen,Dinobryon,Calculated Individuals per liter,105.18
+Ugent:Ecopot1:0056,event,Kessenich_24aug07,Microcystis,HumanObservation,watersample,J. Van Wichelen,Microcystis,Calculated Individuals per liter,97.00
+Ugent:Ecopot1:0057,event,Kessenich_7sep06,Rhodomonas,HumanObservation,watersample,J. Van Wichelen,Rhodomonas,Calculated Individuals per liter,95.46
+Ugent:Ecopot1:0058,event,Heerenlaak_12jul07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,94.66
+Ugent:Ecopot1:0059,event,Heerenlaak_24aug07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,94.66
+Ugent:Ecopot1:0060,event,Heerenlaak_12jul07,Tribonema,HumanObservation,watersample,J. Van Wichelen,Tribonema,Calculated Individuals per liter,94.66
+Ugent:Ecopot1:0061,event,Kessenich_18apr07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,90.16
+Ugent:Ecopot1:0062,event,Kessenich_18apr07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,90.16
+Ugent:Ecopot1:0063,event,Heerenlaak_22jun07,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,90.16
+Ugent:Ecopot1:0064,event,Kessenich_18apr07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,90.16
+Ugent:Ecopot1:0065,event,Heerenlaak_6sep06,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,86.55
+Ugent:Ecopot1:0066,event,Heerenlaak_12jul07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,81.14
+Ugent:Ecopot1:0067,event,Kessenich_7sep06,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,79.55
+Ugent:Ecopot1:0068,event,Kessenich_12jul07,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,75.01
+Ugent:Ecopot1:0069,event,Kessenich_12jul07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,64.60
+Ugent:Ecopot1:0070,event,Heerenlaak_31may07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,64.18
+Ugent:Ecopot1:0071,event,Kessenich_22jun07,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,58.00
+Ugent:Ecopot1:0072,event,Kessenich_7sep06,Actinocyclus,HumanObservation,watersample,J. Van Wichelen,Actinocyclus,Calculated Individuals per liter,55.68
+Ugent:Ecopot1:0073,event,Heerenlaak_12jul07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,54.09
+Ugent:Ecopot1:0074,event,Heerenlaak_22jun07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,45.08
+Ugent:Ecopot1:0075,event,Heerenlaak_17apr07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,45.08
+Ugent:Ecopot1:0076,event,Heerenlaak_22jun07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,45.08
+Ugent:Ecopot1:0077,event,Kessenich_18apr07,Lagerheimia ciliata,HumanObservation,watersample,J. Van Wichelen,Lagerheimia ciliata,Calculated Individuals per liter,45.08
+Ugent:Ecopot1:0078,event,Kessenich_18apr07,Monoraphidium  ,HumanObservation,watersample,J. Van Wichelen,Monoraphidium  ,Calculated Individuals per liter,45.08
+Ugent:Ecopot1:0079,event,Kessenich_20oct06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,44.73
+Ugent:Ecopot1:0080,event,Heerenlaak_6sep06,Merismopedia,HumanObservation,watersample,J. Van Wichelen,Merismopedia,Calculated Individuals per liter,43.27
+Ugent:Ecopot1:0081,event,Kessenich_31may07,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,38.64
+Ugent:Ecopot1:0082,event,Kessenich_31may07,Glenodinium,HumanObservation,watersample,J. Van Wichelen,Glenodinium,Calculated Individuals per liter,38.64
+Ugent:Ecopot1:0083,event,Kessenich_31may07,Actinastrum,HumanObservation,watersample,J. Van Wichelen,Actinastrum,Calculated Individuals per liter,35.00
+Ugent:Ecopot1:0085,event,Heerenlaak_6sep06,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,32.46
+Ugent:Ecopot1:0086,event,Heerenlaak_6sep06,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,32.46
+Ugent:Ecopot1:0088,event,Heerenlaak_20oct06,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0089,event,Kessenich_12jul07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0090,event,Heerenlaak_12jul07,Staurastrum,HumanObservation,watersample,J. Van Wichelen,Staurastrum,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0092,event,Kessenich_12jul07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0093,event,Heerenlaak_20oct06,Actinocyclus,HumanObservation,watersample,J. Van Wichelen,Actinocyclus,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0094,event,Kessenich_12jul07,Actinocyclus,HumanObservation,watersample,J. Van Wichelen,Actinocyclus,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0095,event,Heerenlaak_12jul07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0096,event,Heerenlaak_12jul07,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,27.05
+Ugent:Ecopot1:0097,event,Kessenich_20oct06,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella_10Âµm,Calculated Individuals per liter,25.28
+Ugent:Ecopot1:0098,event,Kessenich_7sep06,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,23.86
+Ugent:Ecopot1:0099,event,Kessenich_7sep06,Mallomonas,HumanObservation,watersample,J. Van Wichelen,Mallomonas,Calculated Individuals per liter,23.86
+Ugent:Ecopot1:0100,event,Heerenlaak_24aug07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,23.20
+Ugent:Ecopot1:0101,event,Heerenlaak_31may07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,23.00
+Ugent:Ecopot1:0102,event,Heerenlaak_6sep06,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,21.64
+Ugent:Ecopot1:0103,event,Heerenlaak_6sep06,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,21.64
+Ugent:Ecopot1:0104,event,Heerenlaak_20oct06,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,20.29
+Ugent:Ecopot1:0105,event,Heerenlaak_20oct06,Mallomonas,HumanObservation,watersample,J. Van Wichelen,Mallomonas,Calculated Individuals per liter,20.29
+Ugent:Ecopot1:0106,event,Kessenich_20oct06,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,19.45
+Ugent:Ecopot1:0107,event,Kessenich_24aug07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,18.80
+Ugent:Ecopot1:0108,event,Kessenich_12jul07,Pandorina,HumanObservation,watersample,J. Van Wichelen,Pandorina,Calculated Individuals per liter,16.67
+Ugent:Ecopot1:0109,event,Heerenlaak_17apr07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,15.03
+Ugent:Ecopot1:0110,event,Heerenlaak_24aug07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,13.52
+Ugent:Ecopot1:0111,event,Heerenlaak_12jul07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,13.52
+Ugent:Ecopot1:0112,event,Heerenlaak_12jul07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,13.52
+Ugent:Ecopot1:0113,event,Heerenlaak_20oct06,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,13.52
+Ugent:Ecopot1:0114,event,Heerenlaak_24aug07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,12.60
+Ugent:Ecopot1:0115,event,Kessenich_31may07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,11.40
+Ugent:Ecopot1:0116,event,Heerenlaak_6sep06,Lagerheimia ciliata,HumanObservation,watersample,J. Van Wichelen,Lagerheimia ciliata,Calculated Individuals per liter,10.82
+Ugent:Ecopot1:0117,event,Heerenlaak_6sep06,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,10.82
+Ugent:Ecopot1:0118,event,Heerenlaak_6sep06,Pseudoanabaena,HumanObservation,watersample,J. Van Wichelen,Pseudoanabaena,Calculated Individuals per liter,10.82
+Ugent:Ecopot1:0119,event,Kessenich_22jun07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,10.80
+Ugent:Ecopot1:0120,event,Heerenlaak_24aug07,Dictyosphaerium,HumanObservation,watersample,J. Van Wichelen,Dictyosphaerium,Calculated Individuals per liter,10.40
+Ugent:Ecopot1:0123,event,Kessenich_22jun07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,9.80
+Ugent:Ecopot1:0124,event,Kessenich_22jun07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,9.40
+Ugent:Ecopot1:0126,event,Kessenich_22jun07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,8.60
+Ugent:Ecopot1:0127,event,Kessenich_22jun07,Gonium,HumanObservation,watersample,J. Van Wichelen,Gonium,Calculated Individuals per liter,8.00
+Ugent:Ecopot1:0128,event,Kessenich_7sep06,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,7.95
+Ugent:Ecopot1:0129,event,Kessenich_7sep06,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,7.95
+Ugent:Ecopot1:0130,event,Kessenich_7sep06,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,7.95
+Ugent:Ecopot1:0132,event,Kessenich_31may07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,7.80
+Ugent:Ecopot1:0133,event,Heerenlaak_22jun07,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,7.80
+Ugent:Ecopot1:0134,event,Kessenich_31may07,Gonium,HumanObservation,watersample,J. Van Wichelen,Gonium,Calculated Individuals per liter,7.00
+Ugent:Ecopot1:0135,event,Heerenlaak_20oct06,Botryococcus,HumanObservation,watersample,J. Van Wichelen,Botryococcus,Calculated Individuals per liter,6.76
+Ugent:Ecopot1:0136,event,Heerenlaak_20oct06,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,6.76
+Ugent:Ecopot1:0137,event,Heerenlaak_20oct06,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,6.76
+Ugent:Ecopot1:0138,event,Heerenlaak_20oct06,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,6.76
+Ugent:Ecopot1:0139,event,Heerenlaak_31may07,Navicula,HumanObservation,watersample,J. Van Wichelen,Navicula,Calculated Individuals per liter,5.83
+Ugent:Ecopot1:0140,event,Kessenich_31may07,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,5.80
+Ugent:Ecopot1:0141,event,Kessenich_24aug07,Cryptomonas,HumanObservation,watersample,J. Van Wichelen,Cryptomonas_larger25,Calculated Individuals per liter,5.60
+Ugent:Ecopot1:0142,event,Heerenlaak_17apr07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,5.60
+Ugent:Ecopot1:0143,event,Heerenlaak_22jun07,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,5.20
+Ugent:Ecopot1:0145,event,Kessenich_12jul07,Fragilaria,HumanObservation,watersample,J. Van Wichelen,Fragilaria,Calculated Individuals per liter,4.60
+Ugent:Ecopot1:0146,event,Kessenich_31may07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,4.40
+Ugent:Ecopot1:0147,event,Heerenlaak_24aug07,Mallomonas,HumanObservation,watersample,J. Van Wichelen,Mallomonas,Calculated Individuals per liter,4.40
+Ugent:Ecopot1:0148,event,Heerenlaak_20oct06,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,3.90
+Ugent:Ecopot1:0149,event,Kessenich_24aug07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,3.60
+Ugent:Ecopot1:0150,event,Kessenich_22jun07,Oocystis,HumanObservation,watersample,J. Van Wichelen,Oocystis,Calculated Individuals per liter,3.60
+Ugent:Ecopot1:0151,event,Kessenich_18apr07,Diatoma vulgaris,HumanObservation,watersample,J. Van Wichelen,Diatoma vulgaris,Calculated Individuals per liter,3.60
+Ugent:Ecopot1:0152,event,Kessenich_24aug07,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,3.60
+Ugent:Ecopot1:0153,event,Heerenlaak_12jul07,Crucigenia,HumanObservation,watersample,J. Van Wichelen,Crucigenia,Calculated Individuals per liter,3.40
+Ugent:Ecopot1:0154,event,Heerenlaak_31may07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,3.40
+Ugent:Ecopot1:0155,event,Kessenich_12jul07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,3.40
+Ugent:Ecopot1:0156,event,Heerenlaak_12jul07,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,3.20
+Ugent:Ecopot1:0157,event,Kessenich_31may07,Monoraphidium  ,HumanObservation,watersample,J. Van Wichelen,Monoraphidium  ,Calculated Individuals per liter,3.20
+Ugent:Ecopot1:0158,event,Kessenich_12jul07,Tetrachlorella,HumanObservation,watersample,J. Van Wichelen,Tetrachlorella,Calculated Individuals per liter,3.20
+Ugent:Ecopot1:0159,event,Heerenlaak_12jul07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,3.20
+Ugent:Ecopot1:0160,event,Kessenich_7sep06,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,3.10
+Ugent:Ecopot1:0161,event,Kessenich_22jun07,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,3.00
+Ugent:Ecopot1:0162,event,Kessenich_22jun07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,3.00
+Ugent:Ecopot1:0163,event,Kessenich_22jun07,Anabaena planctonica,HumanObservation,watersample,J. Van Wichelen,Anabaena_planctonica,Calculated Individuals per liter,3.00
+Ugent:Ecopot1:0164,event,Heerenlaak_24aug07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,2.80
+Ugent:Ecopot1:0165,event,Kessenich_24aug07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,2.80
+Ugent:Ecopot1:0167,event,Heerenlaak_22jun07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,2.60
+Ugent:Ecopot1:0168,event,Kessenich_22jun07,Glenodinium,HumanObservation,watersample,J. Van Wichelen,Glenodinium,Calculated Individuals per liter,2.60
+Ugent:Ecopot1:0169,event,Kessenich_12jul07,Eudorina,HumanObservation,watersample,J. Van Wichelen,Eudorina,Calculated Individuals per liter,2.40
+Ugent:Ecopot1:0170,event,Kessenich_31may07,Pandorina,HumanObservation,watersample,J. Van Wichelen,Pandorina,Calculated Individuals per liter,2.40
+Ugent:Ecopot1:0171,event,Kessenich_22jun07,Monoraphidium  ,HumanObservation,watersample,J. Van Wichelen,Monoraphidium  ,Calculated Individuals per liter,2.40
+Ugent:Ecopot1:0172,event,Kessenich_12jul07,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,2.40
+Ugent:Ecopot1:0173,event,Heerenlaak_31may07,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,2.40
+Ugent:Ecopot1:0175,event,Kessenich_12jul07,Crucigenia,HumanObservation,watersample,J. Van Wichelen,Crucigenia,Calculated Individuals per liter,2.20
+Ugent:Ecopot1:0176,event,Heerenlaak_22jun07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,2.20
+Ugent:Ecopot1:0177,event,Kessenich_7sep06,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,2.10
+Ugent:Ecopot1:0178,event,Heerenlaak_12jul07,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,2.00
+Ugent:Ecopot1:0179,event,Heerenlaak_24aug07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,2.00
+Ugent:Ecopot1:0180,event,Kessenich_20oct06,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,1.94
+Ugent:Ecopot1:0181,event,Kessenich_22jun07,Crucigeniella,HumanObservation,watersample,J. Van Wichelen,Crucigeniella,Calculated Individuals per liter,1.80
+Ugent:Ecopot1:0182,event,Heerenlaak_24aug07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,1.80
+Ugent:Ecopot1:0183,event,Heerenlaak_31may07,Glenodinium,HumanObservation,watersample,J. Van Wichelen,Glenodinium,Calculated Individuals per liter,1.80
+Ugent:Ecopot1:0184,event,Heerenlaak_24aug07,Glenodinium,HumanObservation,watersample,J. Van Wichelen,Glenodinium,Calculated Individuals per liter,1.80
+Ugent:Ecopot1:0185,event,Kessenich_31may07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,1.60
+Ugent:Ecopot1:0186,event,Kessenich_22jun07,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,1.60
+Ugent:Ecopot1:0187,event,Heerenlaak_17apr07,Monoraphidium  ,HumanObservation,watersample,J. Van Wichelen,Monoraphidium  ,Calculated Individuals per liter,1.60
+Ugent:Ecopot1:0188,event,Heerenlaak_12jul07,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,1.60
+Ugent:Ecopot1:0189,event,Kessenich_31may07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,1.40
+Ugent:Ecopot1:0190,event,Kessenich_22jun07,Staurastrum,HumanObservation,watersample,J. Van Wichelen,Staurastrum,Calculated Individuals per liter,1.40
+Ugent:Ecopot1:0191,event,Heerenlaak_24aug07,Diatoma vulgaris,HumanObservation,watersample,J. Van Wichelen,Diatoma vulgaris,Calculated Individuals per liter,1.40
+Ugent:Ecopot1:0192,event,Heerenlaak_31may07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,1.40
+Ugent:Ecopot1:0193,event,Kessenich_22jun07,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,1.40
+Ugent:Ecopot1:0195,event,Kessenich_12jul07,Dictyosphaerium,HumanObservation,watersample,J. Van Wichelen,Dictyosphaerium,Calculated Individuals per liter,1.20
+Ugent:Ecopot1:0196,event,Kessenich_24aug07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,1.20
+Ugent:Ecopot1:0198,event,Heerenlaak_24aug07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,1.20
+Ugent:Ecopot1:0199,event,Heerenlaak_6sep06,Actinastrum,HumanObservation,watersample,J. Van Wichelen,Actinastrum,Calculated Individuals per liter,1.12
+Ugent:Ecopot1:0200,event,Heerenlaak_6sep06,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,1.04
+Ugent:Ecopot1:0201,event,Heerenlaak_12jul07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0202,event,Kessenich_22jun07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0203,event,Kessenich_22jun07,Micractinium,HumanObservation,watersample,J. Van Wichelen,Micractinium,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0204,event,Heerenlaak_31may07,Monoraphidium  ,HumanObservation,watersample,J. Van Wichelen,Monoraphidium  ,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0205,event,Kessenich_22jun07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0206,event,Heerenlaak_24aug07,Actinocyclus,HumanObservation,watersample,J. Van Wichelen,Actinocyclus,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0207,event,Kessenich_22jun07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0208,event,Heerenlaak_24aug07,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0209,event,Kessenich_22jun07,Merismopedia,HumanObservation,watersample,J. Van Wichelen,Merismopedia,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0210,event,Kessenich_12jul07,Microcystis,HumanObservation,watersample,J. Van Wichelen,Microcystis,Calculated Individuals per liter,1.00
+Ugent:Ecopot1:0211,event,Heerenlaak_6sep06,Kirchneriella,HumanObservation,watersample,J. Van Wichelen,Kirchneriella,Calculated Individuals per liter,0.96
+Ugent:Ecopot1:0212,event,Heerenlaak_24aug07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0213,event,Heerenlaak_22jun07,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0214,event,Kessenich_31may07,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0215,event,Kessenich_24aug07,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0216,event,Heerenlaak_24aug07,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0217,event,Kessenich_24aug07,Desmodesmus,HumanObservation,watersample,J. Van Wichelen,Desmodesmus,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0218,event,Kessenich_31may07,Lagerheimia ciliata,HumanObservation,watersample,J. Van Wichelen,Lagerheimia ciliata,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0219,event,Kessenich_24aug07,Pandorina,HumanObservation,watersample,J. Van Wichelen,Pandorina,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0220,event,Kessenich_24aug07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0221,event,Kessenich_31may07,Oocystis,HumanObservation,watersample,J. Van Wichelen,Oocystis,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0222,event,Heerenlaak_20oct06,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0223,event,Heerenlaak_31may07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0224,event,Heerenlaak_24aug07,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0225,event,Heerenlaak_22jun07,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0226,event,Heerenlaak_17apr07,Anabaena planctonica,HumanObservation,watersample,J. Van Wichelen,Anabaena_planctonica,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0227,event,Kessenich_12jul07,Anabaena planctonica,HumanObservation,watersample,J. Van Wichelen,Anabaena_planctonica,Calculated Individuals per liter,0.80
+Ugent:Ecopot1:0228,event,Heerenlaak_6sep06,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,0.64
+Ugent:Ecopot1:0229,event,Heerenlaak_24aug07,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0230,event,Kessenich_12jul07,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0231,event,Heerenlaak_22jun07,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0232,event,Heerenlaak_31may07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0233,event,Heerenlaak_17apr07,Fragilaria,HumanObservation,watersample,J. Van Wichelen,Fragilaria,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0234,event,Heerenlaak_22jun07,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0235,event,Heerenlaak_12jul07,Nitzschia,HumanObservation,watersample,J. Van Wichelen,Nitzschia,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0236,event,Heerenlaak_24aug07,Navicula,HumanObservation,watersample,J. Van Wichelen,Navicula,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0237,event,Kessenich_12jul07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0239,event,Heerenlaak_31may07,Stephanodiscus,HumanObservation,watersample,J. Van Wichelen,Stephanodiscus,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0240,event,Kessenich_20oct06,Aulacoseira,HumanObservation,watersample,J. Van Wichelen,Aulacoseira,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0241,event,Heerenlaak_22jun07,Anabaena flosaqua,HumanObservation,watersample,J. Van Wichelen,Anabaena_flos_aqua,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0242,event,Heerenlaak_12jul07,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0243,event,Kessenich_31may07,Pseudoanabaena,HumanObservation,watersample,J. Van Wichelen,Pseudoanabaena,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0244,event,Kessenich_12jul07,Ceratium,HumanObservation,watersample,J. Van Wichelen,Ceratium,Calculated Individuals per liter,0.60
+Ugent:Ecopot1:0245,event,Heerenlaak_6sep06,Euglena,HumanObservation,watersample,J. Van Wichelen,Euglena,Calculated Individuals per liter,0.56
+Ugent:Ecopot1:0246,event,Heerenlaak_6sep06,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.48
+Ugent:Ecopot1:0247,event,Kessenich_20oct06,Asterionella formosa,HumanObservation,watersample,J. Van Wichelen,Asterionella formosa,Calculated Individuals per liter,0.47
+Ugent:Ecopot1:0248,event,Heerenlaak_31may07,Ankyra,HumanObservation,watersample,J. Van Wichelen,Ankyra,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0249,event,Kessenich_24aug07,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0250,event,Heerenlaak_12jul07,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0251,event,Kessenich_18apr07,Pandorina,HumanObservation,watersample,J. Van Wichelen,Pandorina,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0252,event,Kessenich_31may07,Dictyosphaerium,HumanObservation,watersample,J. Van Wichelen,Dictyosphaerium,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0253,event,Heerenlaak_17apr07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0254,event,Heerenlaak_22jun07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0255,event,Kessenich_31may07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0256,event,Kessenich_12jul07,Schroederia,HumanObservation,watersample,J. Van Wichelen,Schroederia,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0257,event,Heerenlaak_31may07,Tetradesmus,HumanObservation,watersample,J. Van Wichelen,Tetradesmus,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0258,event,Kessenich_24aug07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0262,event,Heerenlaak_22jun07,Euglena,HumanObservation,watersample,J. Van Wichelen,Euglena,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0263,event,Kessenich_22jun07,Euglena,HumanObservation,watersample,J. Van Wichelen,Euglena,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0264,event,Heerenlaak_12jul07,Actinocyclus,HumanObservation,watersample,J. Van Wichelen,Actinocyclus,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0265,event,Heerenlaak_22jun07,Navicula,HumanObservation,watersample,J. Van Wichelen,Navicula,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0266,event,Kessenich_22jun07,Navicula,HumanObservation,watersample,J. Van Wichelen,Navicula,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0267,event,Kessenich_24aug07,Navicula,HumanObservation,watersample,J. Van Wichelen,Navicula,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0269,event,Heerenlaak_22jun07,Cyclotella,HumanObservation,watersample,J. Van Wichelen,Cyclotella,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0270,event,Kessenich_18apr07,Pseudoanabaena,HumanObservation,watersample,J. Van Wichelen,Pseudoanabaena,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0271,event,Heerenlaak_12jul07,Glenodinium,HumanObservation,watersample,J. Van Wichelen,Glenodinium,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0272,event,Kessenich_24aug07,Ceratium,HumanObservation,watersample,J. Van Wichelen,Ceratium,Calculated Individuals per liter,0.40
+Ugent:Ecopot1:0273,event,Heerenlaak_20oct06,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,0.35
+Ugent:Ecopot1:0274,event,Heerenlaak_6sep06,Monoraphidium  ,HumanObservation,watersample,J. Van Wichelen,Monoraphidium  ,Calculated Individuals per liter,0.32
+Ugent:Ecopot1:0275,event,Heerenlaak_20oct06,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.25
+Ugent:Ecopot1:0276,event,Heerenlaak_6sep06,Staurodesmus,HumanObservation,watersample,J. Van Wichelen,Staurodesmus,Calculated Individuals per liter,0.24
+Ugent:Ecopot1:0277,event,Heerenlaak_24aug07,Actinastrum,HumanObservation,watersample,J. Van Wichelen,Actinastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0278,event,Kessenich_22jun07,Actinastrum,HumanObservation,watersample,J. Van Wichelen,Actinastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0279,event,Kessenich_12jul07,Actinastrum,HumanObservation,watersample,J. Van Wichelen,Actinastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0280,event,Heerenlaak_31may07,Chlamydomonas,HumanObservation,watersample,J. Van Wichelen,Chlamydomonas,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0281,event,Heerenlaak_17apr07,Crucigenia,HumanObservation,watersample,J. Van Wichelen,Crucigenia,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0282,event,Heerenlaak_22jun07,Crucigeniella,HumanObservation,watersample,J. Van Wichelen,Crucigeniella,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0283,event,Kessenich_31may07,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0284,event,Heerenlaak_31may07,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0285,event,Kessenich_18apr07,Scenedesmus,HumanObservation,watersample,J. Van Wichelen,Scenedesmus,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0286,event,Kessenich_18apr07,Gonium,HumanObservation,watersample,J. Van Wichelen,Gonium,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0287,event,Heerenlaak_12jul07,Lagerheimia ciliata,HumanObservation,watersample,J. Van Wichelen,Lagerheimia ciliata,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0288,event,Heerenlaak_17apr07,Pediastrum,HumanObservation,watersample,J. Van Wichelen,Pediastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0289,event,Kessenich_18apr07,Micractinium,HumanObservation,watersample,J. Van Wichelen,Micractinium,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0290,event,Heerenlaak_24aug07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0291,event,Kessenich_18apr07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0292,event,Kessenich_31may07,Tetrastrum,HumanObservation,watersample,J. Van Wichelen,Tetrastrum,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0293,event,Heerenlaak_17apr07,Euglena,HumanObservation,watersample,J. Van Wichelen,Euglena,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0294,event,Kessenich_31may07,Euglena,HumanObservation,watersample,J. Van Wichelen,Euglena,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0295,event,Heerenlaak_12jul07,Phacus,HumanObservation,watersample,J. Van Wichelen,Phacus,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0296,event,Heerenlaak_31may07,Trachelomonas,HumanObservation,watersample,J. Van Wichelen,Trachelomonas,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0297,event,Kessenich_18apr07,Fragilaria,HumanObservation,watersample,J. Van Wichelen,Fragilaria,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0298,event,Heerenlaak_12jul07,Gyrosigma,HumanObservation,watersample,J. Van Wichelen,Gyrosigma,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0299,event,Heerenlaak_24aug07,Gyrosigma,HumanObservation,watersample,J. Van Wichelen,Gyrosigma,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0302,event,Heerenlaak_31may07,Anabaena planctonica,HumanObservation,watersample,J. Van Wichelen,Anabaena_planctonica,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0303,event,Kessenich_18apr07,Anabaena planctonica,HumanObservation,watersample,J. Van Wichelen,Anabaena_planctonica,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0304,event,Kessenich_12jul07,Aphanocapsa,HumanObservation,watersample,J. Van Wichelen,Aphanocapsa,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0305,event,Heerenlaak_24aug07,Pseudoanabaena,HumanObservation,watersample,J. Van Wichelen,Pseudoanabaena,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0306,event,Heerenlaak_12jul07,Peridinium,HumanObservation,watersample,J. Van Wichelen,Peridinium,Calculated Individuals per liter,0.20
+Ugent:Ecopot1:0307,event,Kessenich_20oct06,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,0.13
+Ugent:Ecopot1:0308,event,Kessenich_7sep06,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.10
+Ugent:Ecopot1:0309,event,Kessenich_7sep06,Cosmarium,HumanObservation,watersample,J. Van Wichelen,Cosmarium,Calculated Individuals per liter,0.10
+Ugent:Ecopot1:0311,event,Heerenlaak_20oct06,Synedra,HumanObservation,watersample,J. Van Wichelen,Synedra,Calculated Individuals per liter,0.10
+Ugent:Ecopot1:0312,event,Kessenich_7sep06,Aphanizomenon,HumanObservation,watersample,J. Van Wichelen,Aphanizomenon,Calculated Individuals per liter,0.10
+Ugent:Ecopot1:0313,event,Heerenlaak_6sep06,Aulacoseira subborealis,HumanObservation,watersample,J. Van Wichelen,Aulacoseira_subborealis,Calculated Individuals per liter,0.08
+Ugent:Ecopot1:0314,event,Kessenich_20oct06,Closterium,HumanObservation,watersample,J. Van Wichelen,Closterium,Calculated Individuals per liter,0.07
+Ugent:Ecopot1:0315,event,Kessenich_20oct06,Navicula,HumanObservation,watersample,J. Van Wichelen,Navicula,Calculated Individuals per liter,0.07
+Ugent:Ecopot1:0316,event,Kessenich_20oct06,Oscillatoria,HumanObservation,watersample,J. Van Wichelen,Oscillatoria,Calculated Individuals per liter,0.07
+Ugent:Ecopot1:0317,event,Heerenlaak_20oct06,Coelastrum,HumanObservation,watersample,J. Van Wichelen,Coelastrum,Calculated Individuals per liter,0.05
+Ugent:Ecopot1:0318,event,Heerenlaak_20oct06,Euglena,HumanObservation,watersample,J. Van Wichelen,Euglena,Calculated Individuals per liter,0.05
