@@ -1,0 +1,320 @@
+occurrenceID;type;basisOfREcord;SampleId;species;scientificName;organismQuantity;organismQuantityType;identifiedBy
+Ugent:Ecopot1:0000;event;HumanObservation;Kessenich_31may07;Stephanodiscus;Stephanodiscus;13291.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0001;event;HumanObservation;Heerenlaak_22jun07;Rhodomonas;Rhodomonas;6401.09;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0002;event;HumanObservation;Kessenich_24aug07;Pseudoanabaena;Pseudoanabaena;5409.37;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0003;event;HumanObservation;Kessenich_18apr07;Stephanodiscus;Stephanodiscus;4958.59;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0004;event;HumanObservation;Kessenich_12jul07;Aulacoseira;Aulacoseira;3624.28;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0005;event;HumanObservation;Kessenich_22jun07;Rhodomonas;Rhodomonas;3326.76;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0006;event;HumanObservation;Kessenich_18apr07;unkown_flagellate;unkown flagellate;3155.47;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0007;event;HumanObservation;Kessenich_18apr07;Rhodomonas;Rhodomonas;1893.28;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0008;event;HumanObservation;Heerenlaak_17apr07;Stephanodiscus;Stephanodiscus;1502.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0009;event;HumanObservation;Kessenich_22jun07;Cryptomonas_smaler25;Cryptomonas smaler25;1460.53;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0010;event;HumanObservation;Heerenlaak_24aug07;Rhodomonas;Rhodomonas;1365.87;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0011;event;HumanObservation;Heerenlaak_12jul07;Rhodomonas;Rhodomonas;1352.34;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0012;event;HumanObservation;Heerenlaak_22jun07;Cryptomonas_larger25;Cryptomonas larger25;1172.03;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0013;event;HumanObservation;Heerenlaak_24aug07;Cryptomonas_larger25;Cryptomonas larger25;1081.87;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0014;event;HumanObservation;Kessenich_31may07;Rhodomonas;Rhodomonas;1004.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0015;event;HumanObservation;Kessenich_12jul07;Rhodomonas;Rhodomonas;973.69;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0016;event;HumanObservation;Heerenlaak_6sep06;Rhodomonas;Rhodomonas;800.59;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0017;event;HumanObservation;Heerenlaak_20oct06;Rhodomonas;Rhodomonas;784.36;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0018;event;HumanObservation;Heerenlaak_6sep06;unknown_pennate_diatom_2;unknown pennate diatom 2;746.49;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0019;event;HumanObservation;Heerenlaak_12jul07;Cryptomonas_larger25;Cryptomonas larger25;662.65;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0020;event;HumanObservation;Kessenich_7sep06;Cryptomonas_larger25;Cryptomonas larger25;604.58;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0021;event;HumanObservation;Heerenlaak_6sep06;Cyclotella;Cyclotella;519.30;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0022;event;HumanObservation;Heerenlaak_17apr07;Rhodomonas;Rhodomonas;465.81;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0023;event;HumanObservation;Kessenich_12jul07;Tribonema;Tribonema;459.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0024;event;HumanObservation;Kessenich_24aug07;Rhodomonas;Rhodomonas;431.75;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0025;event;HumanObservation;Kessenich_12jul07;unknown_centricate_diatom;unknown centricate diatom;324.56;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0026;event;HumanObservation;Kessenich_7sep06;Cyclotella;Cyclotella;318.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0027;event;HumanObservation;Kessenich_31may07;Micractinium;Micractinium;309.11;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0028;event;HumanObservation;Heerenlaak_20oct06;unkown_flagellate;unkown flagellate;307.25;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0029;event;HumanObservation;Heerenlaak_20oct06;Cyclotella_10µm;Cyclotella 10µm;297.52;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0030;event;HumanObservation;Kessenich_18apr07;Cryptomonas_larger25;Cryptomonas larger25;270.47;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0031;event;HumanObservation;Heerenlaak_12jul07;Cryptomonas_smaler25;Cryptomonas smaler25;270.47;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0032;event;HumanObservation;Heerenlaak_20oct06;Cryptomonas_larger25;Cryptomonas larger25;236.66;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0033;event;HumanObservation;Heerenlaak_6sep06;Desmodesmus;Desmodesmus;227.19;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0034;event;HumanObservation;Heerenlaak_22jun07;unkown_flagellate;unkown flagellate;225.39;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0035;event;HumanObservation;Heerenlaak_6sep06;Cryptomonas_larger25;Cryptomonas larger25;216.37;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0036;event;HumanObservation;Heerenlaak_31may07;Rhodomonas;Rhodomonas;204.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0037;event;HumanObservation;Heerenlaak_6sep06;Stephanodiscus;Stephanodiscus;194.74;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0038;event;HumanObservation;Heerenlaak_6sep06;unkown_flagellate;unkown flagellate;194.74;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0039;event;HumanObservation;Heerenlaak_17apr07;Cryptomonas_smaler25;Cryptomonas smaler25;180.31;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0040;event;HumanObservation;Kessenich_18apr07;Asterionella formosa;Asterionella formosa;180.31;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0041;event;HumanObservation;Kessenich_7sep06;Cyclotella_10µm;Cyclotella 10µm;167.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0042;event;HumanObservation;Heerenlaak_17apr07;Cyclotella;Cyclotella;165.29;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0043;event;HumanObservation;Heerenlaak_12jul07;unknown_centricate_diatom;unknown centricate diatom;148.76;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0044;event;HumanObservation;Kessenich_7sep06;unkown_flagellate;unkown flagellate;143.19;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0045;event;HumanObservation;Heerenlaak_6sep06;Dictyosphaerium;Dictyosphaerium;140.64;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0046;event;HumanObservation;Heerenlaak_31may07;Cyclotella;Cyclotella;140.03;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0047;event;HumanObservation;Kessenich_18apr07;Cryptomonas_smaler25;Cryptomonas smaler25;135.23;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0048;event;HumanObservation;Kessenich_12jul07;Cryptomonas_smaler25;Cryptomonas smaler25;135.23;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0049;event;HumanObservation;Heerenlaak_20oct06;Cyclotella;Cyclotella;128.47;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0050;event;HumanObservation;Kessenich_20oct06;Rhodomonas;Rhodomonas;128.36;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0051;event;HumanObservation;Kessenich_31may07;Cryptomonas_smaler25;Cryptomonas smaler25;115.92;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0052;event;HumanObservation;Kessenich_22jun07;Desmodesmus;Desmodesmus;108.19;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0053;event;HumanObservation;Kessenich_12jul07;Desmodesmus;Desmodesmus;108.19;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0054;event;HumanObservation;Kessenich_22jun07;Stephanodiscus;Stephanodiscus;108.19;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0055;event;HumanObservation;Heerenlaak_17apr07;Dinobryon;Dinobryon;105.18;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0056;event;HumanObservation;Kessenich_24aug07;Microcystis;Microcystis;97.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0057;event;HumanObservation;Kessenich_7sep06;Rhodomonas;Rhodomonas;95.46;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0058;event;HumanObservation;Heerenlaak_12jul07;Chlamydomonas;Chlamydomonas;94.66;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0059;event;HumanObservation;Heerenlaak_24aug07;Cyclotella;Cyclotella;94.66;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0060;event;HumanObservation;Heerenlaak_12jul07;Tribonema;Tribonema;94.66;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0061;event;HumanObservation;Kessenich_18apr07;Nitzschia;Nitzschia;90.16;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0062;event;HumanObservation;Kessenich_18apr07;Cyclotella;Cyclotella;90.16;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0063;event;HumanObservation;Heerenlaak_22jun07;Stephanodiscus;Stephanodiscus;90.16;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0064;event;HumanObservation;Kessenich_18apr07;Aulacoseira;Aulacoseira;90.16;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0065;event;HumanObservation;Heerenlaak_6sep06;Tetrastrum;Tetrastrum;86.55;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0066;event;HumanObservation;Heerenlaak_12jul07;Desmodesmus;Desmodesmus;81.14;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0067;event;HumanObservation;Kessenich_7sep06;Chlamydomonas;Chlamydomonas;79.55;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0068;event;HumanObservation;Kessenich_12jul07;Aphanizomenon;Aphanizomenon;75.01;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0069;event;HumanObservation;Kessenich_12jul07;Asterionella formosa;Asterionella formosa;64.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0070;event;HumanObservation;Heerenlaak_31may07;Cryptomonas_larger25;Cryptomonas larger25;64.18;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0071;event;HumanObservation;Kessenich_22jun07;Aphanizomenon;Aphanizomenon;58.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0072;event;HumanObservation;Kessenich_7sep06;Actinocyclus;Actinocyclus;55.68;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0073;event;HumanObservation;Heerenlaak_12jul07;Aulacoseira;Aulacoseira;54.09;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0074;event;HumanObservation;Heerenlaak_22jun07;Chlamydomonas;Chlamydomonas;45.08;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0075;event;HumanObservation;Heerenlaak_17apr07;Desmodesmus;Desmodesmus;45.08;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0076;event;HumanObservation;Heerenlaak_22jun07;Desmodesmus;Desmodesmus;45.08;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0077;event;HumanObservation;Kessenich_18apr07;Lagerheimia ciliata;Lagerheimia ciliata;45.08;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0078;event;HumanObservation;Kessenich_18apr07;Monoraphidium  ;Monoraphidium  ;45.08;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0079;event;HumanObservation;Kessenich_20oct06;Cyclotella;Cyclotella;44.73;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0080;event;HumanObservation;Heerenlaak_6sep06;Merismopedia;Merismopedia;43.27;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0081;event;HumanObservation;Kessenich_31may07;Scenedesmus;Scenedesmus;38.64;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0082;event;HumanObservation;Kessenich_31may07;Glenodinium;Glenodinium;38.64;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0083;event;HumanObservation;Kessenich_31may07;Actinastrum;Actinastrum;35.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0084;event;HumanObservation;Kessenich_31may07;colonial_unknown_diatom;colonial unknown diatom;33.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0085;event;HumanObservation;Heerenlaak_6sep06;Scenedesmus;Scenedesmus;32.46;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0086;event;HumanObservation;Heerenlaak_6sep06;Nitzschia;Nitzschia;32.46;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0087;event;HumanObservation;Kessenich_7sep06;coccal_green_algae_cells;coccal green algae cells;31.82;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0088;event;HumanObservation;Heerenlaak_20oct06;Chlamydomonas;Chlamydomonas;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0089;event;HumanObservation;Kessenich_12jul07;Chlamydomonas;Chlamydomonas;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0090;event;HumanObservation;Heerenlaak_12jul07;Staurastrum;Staurastrum;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0091;event;HumanObservation;Heerenlaak_20oct06;coccal_green_algae_cells;coccal green algae cells;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0092;event;HumanObservation;Kessenich_12jul07;Trachelomonas;Trachelomonas;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0093;event;HumanObservation;Heerenlaak_20oct06;Actinocyclus;Actinocyclus;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0094;event;HumanObservation;Kessenich_12jul07;Actinocyclus;Actinocyclus;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0095;event;HumanObservation;Heerenlaak_12jul07;Cyclotella;Cyclotella;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0096;event;HumanObservation;Heerenlaak_12jul07;Aulacoseira_subborealis;Aulacoseira subborealis;27.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0097;event;HumanObservation;Kessenich_20oct06;Cyclotella_10µm;Cyclotella 10µm;25.28;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0098;event;HumanObservation;Kessenich_7sep06;Aulacoseira_subborealis;Aulacoseira subborealis;23.86;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0099;event;HumanObservation;Kessenich_7sep06;Mallomonas;Mallomonas;23.86;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0100;event;HumanObservation;Heerenlaak_24aug07;Aulacoseira;Aulacoseira;23.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0101;event;HumanObservation;Heerenlaak_31may07;Aulacoseira;Aulacoseira;23.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0102;event;HumanObservation;Heerenlaak_6sep06;Coelastrum;Coelastrum;21.64;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0103;event;HumanObservation;Heerenlaak_6sep06;Pediastrum;Pediastrum;21.64;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0104;event;HumanObservation;Heerenlaak_20oct06;Desmodesmus;Desmodesmus;20.29;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0105;event;HumanObservation;Heerenlaak_20oct06;Mallomonas;Mallomonas;20.29;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0106;event;HumanObservation;Kessenich_20oct06;Schroederia;Schroederia;19.45;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0107;event;HumanObservation;Kessenich_24aug07;Cyclotella;Cyclotella;18.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0108;event;HumanObservation;Kessenich_12jul07;Pandorina;Pandorina;16.67;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0109;event;HumanObservation;Heerenlaak_17apr07;Tetrastrum;Tetrastrum;15.03;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0110;event;HumanObservation;Heerenlaak_24aug07;Desmodesmus;Desmodesmus;13.52;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0111;event;HumanObservation;Heerenlaak_12jul07;Schroederia;Schroederia;13.52;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0112;event;HumanObservation;Heerenlaak_12jul07;Tetrastrum;Tetrastrum;13.52;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0113;event;HumanObservation;Heerenlaak_20oct06;Aulacoseira_subborealis;Aulacoseira subborealis;13.52;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0114;event;HumanObservation;Heerenlaak_24aug07;Asterionella formosa;Asterionella formosa;12.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0115;event;HumanObservation;Kessenich_31may07;Aulacoseira;Aulacoseira;11.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0116;event;HumanObservation;Heerenlaak_6sep06;Lagerheimia ciliata;Lagerheimia ciliata;10.82;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0117;event;HumanObservation;Heerenlaak_6sep06;Schroederia;Schroederia;10.82;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0118;event;HumanObservation;Heerenlaak_6sep06;Pseudoanabaena;Pseudoanabaena;10.82;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0119;event;HumanObservation;Kessenich_22jun07;Nitzschia;Nitzschia;10.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0120;event;HumanObservation;Heerenlaak_24aug07;Dictyosphaerium;Dictyosphaerium;10.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0121;event;HumanObservation;Kessenich_22jun07;coccal_green_algae_cells;coccal green algae cells;10.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0122;event;HumanObservation;Kessenich_24aug07;coccal_green_algae_cells;coccal green algae cells;10.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0123;event;HumanObservation;Kessenich_22jun07;Chlamydomonas;Chlamydomonas;9.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0124;event;HumanObservation;Kessenich_22jun07;Trachelomonas;Trachelomonas;9.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0125;event;HumanObservation;Kessenich_31may07;coccal_green_algae_colony;coccal green algae colony;8.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0126;event;HumanObservation;Kessenich_22jun07;Aulacoseira;Aulacoseira;8.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0127;event;HumanObservation;Kessenich_22jun07;Gonium;Gonium;8.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0128;event;HumanObservation;Kessenich_7sep06;Desmodesmus;Desmodesmus;7.95;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0129;event;HumanObservation;Kessenich_7sep06;Scenedesmus;Scenedesmus;7.95;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0130;event;HumanObservation;Kessenich_7sep06;Schroederia;Schroederia;7.95;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0131;event;HumanObservation;Kessenich_12jul07;coccal_green_algae_colony;coccal green algae colony;7.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0132;event;HumanObservation;Kessenich_31may07;Nitzschia;Nitzschia;7.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0133;event;HumanObservation;Heerenlaak_22jun07;Aphanizomenon;Aphanizomenon;7.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0134;event;HumanObservation;Kessenich_31may07;Gonium;Gonium;7.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0135;event;HumanObservation;Heerenlaak_20oct06;Botryococcus;Botryococcus;6.76;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0136;event;HumanObservation;Heerenlaak_20oct06;Scenedesmus;Scenedesmus;6.76;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0137;event;HumanObservation;Heerenlaak_20oct06;Trachelomonas;Trachelomonas;6.76;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0138;event;HumanObservation;Heerenlaak_20oct06;Nitzschia;Nitzschia;6.76;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0139;event;HumanObservation;Heerenlaak_31may07;Navicula;Navicula;5.83;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0140;event;HumanObservation;Kessenich_31may07;Synedra;Synedra;5.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0141;event;HumanObservation;Kessenich_24aug07;Cryptomonas_larger25;Cryptomonas larger25;5.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0142;event;HumanObservation;Heerenlaak_17apr07;Asterionella formosa;Asterionella formosa;5.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0143;event;HumanObservation;Heerenlaak_22jun07;Aulacoseira;Aulacoseira;5.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0144;event;HumanObservation;Heerenlaak_22jun07;coccal_green_algae_colony;coccal green algae colony;5.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0145;event;HumanObservation;Kessenich_12jul07;Fragilaria;Fragilaria;4.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0146;event;HumanObservation;Kessenich_31may07;Asterionella formosa;Asterionella formosa;4.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0147;event;HumanObservation;Heerenlaak_24aug07;Mallomonas;Mallomonas;4.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0148;event;HumanObservation;Heerenlaak_20oct06;Aulacoseira;Aulacoseira;3.90;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0149;event;HumanObservation;Kessenich_24aug07;Chlamydomonas;Chlamydomonas;3.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0150;event;HumanObservation;Kessenich_22jun07;Oocystis;Oocystis;3.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0151;event;HumanObservation;Kessenich_18apr07;Diatoma vulgaris;Diatoma vulgaris;3.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0152;event;HumanObservation;Kessenich_24aug07;Aphanizomenon;Aphanizomenon;3.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0153;event;HumanObservation;Heerenlaak_12jul07;Crucigenia;Crucigenia;3.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0154;event;HumanObservation;Heerenlaak_31may07;Desmodesmus;Desmodesmus;3.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0155;event;HumanObservation;Kessenich_12jul07;Pediastrum;Pediastrum;3.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0156;event;HumanObservation;Heerenlaak_12jul07;Coelastrum;Coelastrum;3.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0157;event;HumanObservation;Kessenich_31may07;Monoraphidium  ;Monoraphidium  ;3.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0158;event;HumanObservation;Kessenich_12jul07;Tetrachlorella;Tetrachlorella;3.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0159;event;HumanObservation;Heerenlaak_12jul07;Trachelomonas;Trachelomonas;3.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0160;event;HumanObservation;Kessenich_7sep06;Asterionella formosa;Asterionella formosa;3.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0161;event;HumanObservation;Kessenich_22jun07;Closterium;Closterium;3.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0162;event;HumanObservation;Kessenich_22jun07;Schroederia;Schroederia;3.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0163;event;HumanObservation;Kessenich_22jun07;Anabaena_planctonica;Anabaena planctonica;3.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0164;event;HumanObservation;Heerenlaak_24aug07;Schroederia;Schroederia;2.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0165;event;HumanObservation;Kessenich_24aug07;Trachelomonas;Trachelomonas;2.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0166;event;HumanObservation;Heerenlaak_17apr07;unknown_pennate_diatom_2;unknown pennate diatom 2;2.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0167;event;HumanObservation;Heerenlaak_22jun07;Nitzschia;Nitzschia;2.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0168;event;HumanObservation;Kessenich_22jun07;Glenodinium;Glenodinium;2.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0169;event;HumanObservation;Kessenich_12jul07;Eudorina;Eudorina;2.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0170;event;HumanObservation;Kessenich_31may07;Pandorina;Pandorina;2.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0171;event;HumanObservation;Kessenich_22jun07;Monoraphidium  ;Monoraphidium  ;2.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0172;event;HumanObservation;Kessenich_12jul07;Synedra;Synedra;2.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0173;event;HumanObservation;Heerenlaak_31may07;Aphanizomenon;Aphanizomenon;2.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0174;event;HumanObservation;Kessenich_20oct06;coccal_green_algae_cells;coccal green algae cells;2.27;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0175;event;HumanObservation;Kessenich_12jul07;Crucigenia;Crucigenia;2.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0176;event;HumanObservation;Heerenlaak_22jun07;Trachelomonas;Trachelomonas;2.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0177;event;HumanObservation;Kessenich_7sep06;Pediastrum;Pediastrum;2.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0178;event;HumanObservation;Heerenlaak_12jul07;Closterium;Closterium;2.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0179;event;HumanObservation;Heerenlaak_24aug07;Pediastrum;Pediastrum;2.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0180;event;HumanObservation;Kessenich_20oct06;Aulacoseira_subborealis;Aulacoseira subborealis;1.94;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0181;event;HumanObservation;Kessenich_22jun07;Crucigeniella;Crucigeniella;1.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0182;event;HumanObservation;Heerenlaak_24aug07;Nitzschia;Nitzschia;1.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0183;event;HumanObservation;Heerenlaak_31may07;Glenodinium;Glenodinium;1.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0184;event;HumanObservation;Heerenlaak_24aug07;Glenodinium;Glenodinium;1.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0185;event;HumanObservation;Kessenich_31may07;Chlamydomonas;Chlamydomonas;1.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0186;event;HumanObservation;Kessenich_22jun07;Coelastrum;Coelastrum;1.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0187;event;HumanObservation;Heerenlaak_17apr07;Monoraphidium  ;Monoraphidium  ;1.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0188;event;HumanObservation;Heerenlaak_12jul07;Synedra;Synedra;1.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0189;event;HumanObservation;Kessenich_31may07;Pediastrum;Pediastrum;1.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0190;event;HumanObservation;Kessenich_22jun07;Staurastrum;Staurastrum;1.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0191;event;HumanObservation;Heerenlaak_24aug07;Diatoma vulgaris;Diatoma vulgaris;1.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0192;event;HumanObservation;Heerenlaak_31may07;Asterionella formosa;Asterionella formosa;1.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0193;event;HumanObservation;Kessenich_22jun07;Synedra;Synedra;1.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0194;event;HumanObservation;Heerenlaak_17apr07;unknown_pennate_diatom_1;unknown pennate diatom 1;1.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0195;event;HumanObservation;Kessenich_12jul07;Dictyosphaerium;Dictyosphaerium;1.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0196;event;HumanObservation;Kessenich_24aug07;Schroederia;Schroederia;1.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0197;event;HumanObservation;Heerenlaak_31may07;coccal_green_algae_cells;coccal green algae cells;1.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0198;event;HumanObservation;Heerenlaak_24aug07;Trachelomonas;Trachelomonas;1.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0199;event;HumanObservation;Heerenlaak_6sep06;Actinastrum;Actinastrum;1.12;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0200;event;HumanObservation;Heerenlaak_6sep06;Synedra;Synedra;1.04;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0201;event;HumanObservation;Heerenlaak_12jul07;Pediastrum;Pediastrum;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0202;event;HumanObservation;Kessenich_22jun07;Pediastrum;Pediastrum;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0203;event;HumanObservation;Kessenich_22jun07;Micractinium;Micractinium;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0204;event;HumanObservation;Heerenlaak_31may07;Monoraphidium  ;Monoraphidium  ;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0205;event;HumanObservation;Kessenich_22jun07;Tetrastrum;Tetrastrum;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0206;event;HumanObservation;Heerenlaak_24aug07;Actinocyclus;Actinocyclus;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0207;event;HumanObservation;Kessenich_22jun07;Cyclotella;Cyclotella;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0208;event;HumanObservation;Heerenlaak_24aug07;Aulacoseira_subborealis;Aulacoseira subborealis;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0209;event;HumanObservation;Kessenich_22jun07;Merismopedia;Merismopedia;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0210;event;HumanObservation;Kessenich_12jul07;Microcystis;Microcystis;1.00;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0211;event;HumanObservation;Heerenlaak_6sep06;Kirchneriella;Kirchneriella;0.96;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0212;event;HumanObservation;Heerenlaak_24aug07;Chlamydomonas;Chlamydomonas;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0213;event;HumanObservation;Heerenlaak_22jun07;Closterium;Closterium;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0214;event;HumanObservation;Kessenich_31may07;Closterium;Closterium;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0215;event;HumanObservation;Kessenich_24aug07;Closterium;Closterium;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0216;event;HumanObservation;Heerenlaak_24aug07;Coelastrum;Coelastrum;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0217;event;HumanObservation;Kessenich_24aug07;Desmodesmus;Desmodesmus;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0218;event;HumanObservation;Kessenich_31may07;Lagerheimia ciliata;Lagerheimia ciliata;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0219;event;HumanObservation;Kessenich_24aug07;Pandorina;Pandorina;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0220;event;HumanObservation;Kessenich_24aug07;Pediastrum;Pediastrum;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0221;event;HumanObservation;Kessenich_31may07;Oocystis;Oocystis;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0222;event;HumanObservation;Heerenlaak_20oct06;Asterionella formosa;Asterionella formosa;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0223;event;HumanObservation;Heerenlaak_31may07;Nitzschia;Nitzschia;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0224;event;HumanObservation;Heerenlaak_24aug07;Synedra;Synedra;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0225;event;HumanObservation;Heerenlaak_22jun07;Aulacoseira_subborealis;Aulacoseira subborealis;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0226;event;HumanObservation;Heerenlaak_17apr07;Anabaena_planctonica;Anabaena planctonica;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0227;event;HumanObservation;Kessenich_12jul07;Anabaena_planctonica;Anabaena planctonica;0.80;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0228;event;HumanObservation;Heerenlaak_6sep06;Trachelomonas;Trachelomonas;0.64;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0229;event;HumanObservation;Heerenlaak_24aug07;Closterium;Closterium;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0230;event;HumanObservation;Kessenich_12jul07;Coelastrum;Coelastrum;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0231;event;HumanObservation;Heerenlaak_22jun07;Scenedesmus;Scenedesmus;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0232;event;HumanObservation;Heerenlaak_31may07;Tetrastrum;Tetrastrum;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0233;event;HumanObservation;Heerenlaak_17apr07;Fragilaria;Fragilaria;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0234;event;HumanObservation;Heerenlaak_22jun07;Asterionella formosa;Asterionella formosa;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0235;event;HumanObservation;Heerenlaak_12jul07;Nitzschia;Nitzschia;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0236;event;HumanObservation;Heerenlaak_24aug07;Navicula;Navicula;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0237;event;HumanObservation;Kessenich_12jul07;Cyclotella;Cyclotella;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0238;event;HumanObservation;Heerenlaak_22jun07;unknown_centricate_diatom;unknown centricate diatom;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0239;event;HumanObservation;Heerenlaak_31may07;Stephanodiscus;Stephanodiscus;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0240;event;HumanObservation;Kessenich_20oct06;Aulacoseira;Aulacoseira;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0241;event;HumanObservation;Heerenlaak_22jun07;Anabaena_flos_aqua;Anabaena flos aqua;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0242;event;HumanObservation;Heerenlaak_12jul07;Aphanizomenon;Aphanizomenon;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0243;event;HumanObservation;Kessenich_31may07;Pseudoanabaena;Pseudoanabaena;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0244;event;HumanObservation;Kessenich_12jul07;Ceratium;Ceratium;0.60;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0245;event;HumanObservation;Heerenlaak_6sep06;Euglena;Euglena;0.56;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0246;event;HumanObservation;Heerenlaak_6sep06;Closterium;Closterium;0.48;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0247;event;HumanObservation;Kessenich_20oct06;Asterionella formosa;Asterionella formosa;0.47;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0248;event;HumanObservation;Heerenlaak_31may07;Ankyra;Ankyra;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0249;event;HumanObservation;Kessenich_24aug07;Coelastrum;Coelastrum;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0250;event;HumanObservation;Heerenlaak_12jul07;Scenedesmus;Scenedesmus;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0251;event;HumanObservation;Kessenich_18apr07;Pandorina;Pandorina;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0252;event;HumanObservation;Kessenich_31may07;Dictyosphaerium;Dictyosphaerium;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0253;event;HumanObservation;Heerenlaak_17apr07;Schroederia;Schroederia;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0254;event;HumanObservation;Heerenlaak_22jun07;Schroederia;Schroederia;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0255;event;HumanObservation;Kessenich_31may07;Schroederia;Schroederia;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0256;event;HumanObservation;Kessenich_12jul07;Schroederia;Schroederia;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0257;event;HumanObservation;Heerenlaak_31may07;Tetradesmus;Tetradesmus;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0258;event;HumanObservation;Kessenich_24aug07;Tetrastrum;Tetrastrum;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0259;event;HumanObservation;Heerenlaak_17apr07;cf_Quadrigula;cf Quadrigula;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0260;event;HumanObservation;Heerenlaak_24aug07;cf_Quadrigula;cf Quadrigula;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0261;event;HumanObservation;Kessenich_31may07;cf_Quadrigula;cf Quadrigula;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0262;event;HumanObservation;Heerenlaak_22jun07;Euglena;Euglena;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0263;event;HumanObservation;Kessenich_22jun07;Euglena;Euglena;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0264;event;HumanObservation;Heerenlaak_12jul07;Actinocyclus;Actinocyclus;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0265;event;HumanObservation;Heerenlaak_22jun07;Navicula;Navicula;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0266;event;HumanObservation;Kessenich_22jun07;Navicula;Navicula;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0267;event;HumanObservation;Kessenich_24aug07;Navicula;Navicula;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0268;event;HumanObservation;Kessenich_31may07;unknown_pennate_diatom_1;unknown pennate diatom 1;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0269;event;HumanObservation;Heerenlaak_22jun07;Cyclotella;Cyclotella;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0270;event;HumanObservation;Kessenich_18apr07;Pseudoanabaena;Pseudoanabaena;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0271;event;HumanObservation;Heerenlaak_12jul07;Glenodinium;Glenodinium;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0272;event;HumanObservation;Kessenich_24aug07;Ceratium;Ceratium;0.40;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0273;event;HumanObservation;Heerenlaak_20oct06;Pediastrum;Pediastrum;0.35;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0274;event;HumanObservation;Heerenlaak_6sep06;Monoraphidium  ;Monoraphidium  ;0.32;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0275;event;HumanObservation;Heerenlaak_20oct06;Closterium;Closterium;0.25;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0276;event;HumanObservation;Heerenlaak_6sep06;Staurodesmus;Staurodesmus;0.24;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0277;event;HumanObservation;Heerenlaak_24aug07;Actinastrum;Actinastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0278;event;HumanObservation;Kessenich_22jun07;Actinastrum;Actinastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0279;event;HumanObservation;Kessenich_12jul07;Actinastrum;Actinastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0280;event;HumanObservation;Heerenlaak_31may07;Chlamydomonas;Chlamydomonas;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0281;event;HumanObservation;Heerenlaak_17apr07;Crucigenia;Crucigenia;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0282;event;HumanObservation;Heerenlaak_22jun07;Crucigeniella;Crucigeniella;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0283;event;HumanObservation;Kessenich_31may07;Coelastrum;Coelastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0284;event;HumanObservation;Heerenlaak_31may07;Scenedesmus;Scenedesmus;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0285;event;HumanObservation;Kessenich_18apr07;Scenedesmus;Scenedesmus;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0286;event;HumanObservation;Kessenich_18apr07;Gonium;Gonium;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0287;event;HumanObservation;Heerenlaak_12jul07;Lagerheimia ciliata;Lagerheimia ciliata;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0288;event;HumanObservation;Heerenlaak_17apr07;Pediastrum;Pediastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0289;event;HumanObservation;Kessenich_18apr07;Micractinium;Micractinium;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0290;event;HumanObservation;Heerenlaak_24aug07;Tetrastrum;Tetrastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0291;event;HumanObservation;Kessenich_18apr07;Tetrastrum;Tetrastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0292;event;HumanObservation;Kessenich_31may07;Tetrastrum;Tetrastrum;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0293;event;HumanObservation;Heerenlaak_17apr07;Euglena;Euglena;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0294;event;HumanObservation;Kessenich_31may07;Euglena;Euglena;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0295;event;HumanObservation;Heerenlaak_12jul07;Phacus;Phacus;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0296;event;HumanObservation;Heerenlaak_31may07;Trachelomonas;Trachelomonas;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0297;event;HumanObservation;Kessenich_18apr07;Fragilaria;Fragilaria;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0298;event;HumanObservation;Heerenlaak_12jul07;Gyrosigma;Gyrosigma;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0299;event;HumanObservation;Heerenlaak_24aug07;Gyrosigma;Gyrosigma;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0300;event;HumanObservation;Heerenlaak_31may07;unknown_pennate_diatom_1;unknown pennate diatom 1;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0301;event;HumanObservation;Kessenich_12jul07;unknown_pennate_diatom_2;unknown pennate diatom 2;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0302;event;HumanObservation;Heerenlaak_31may07;Anabaena_planctonica;Anabaena planctonica;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0303;event;HumanObservation;Kessenich_18apr07;Anabaena_planctonica;Anabaena planctonica;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0304;event;HumanObservation;Kessenich_12jul07;Aphanocapsa;Aphanocapsa;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0305;event;HumanObservation;Heerenlaak_24aug07;Pseudoanabaena;Pseudoanabaena;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0306;event;HumanObservation;Heerenlaak_12jul07;Peridinium;Peridinium;0.20;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0307;event;HumanObservation;Kessenich_20oct06;Coelastrum;Coelastrum;0.13;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0308;event;HumanObservation;Kessenich_7sep06;Closterium;Closterium;0.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0309;event;HumanObservation;Kessenich_7sep06;Cosmarium;Cosmarium;0.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0310;event;HumanObservation;Kessenich_7sep06;filamentoussp;filamentoussp;0.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0311;event;HumanObservation;Heerenlaak_20oct06;Synedra;Synedra;0.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0312;event;HumanObservation;Kessenich_7sep06;Aphanizomenon;Aphanizomenon;0.10;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0313;event;HumanObservation;Heerenlaak_6sep06;Aulacoseira_subborealis;Aulacoseira subborealis;0.08;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0314;event;HumanObservation;Kessenich_20oct06;Closterium;Closterium;0.07;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0315;event;HumanObservation;Kessenich_20oct06;Navicula;Navicula;0.07;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0316;event;HumanObservation;Kessenich_20oct06;Oscillatoria;Oscillatoria;0.07;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0317;event;HumanObservation;Heerenlaak_20oct06;Coelastrum;Coelastrum;0.05;Calculated Individuals per ML;J. Van Wichelen
+Ugent:Ecopot1:0318;event;HumanObservation;Heerenlaak_20oct06;Euglena;Euglena;0.05;Calculated Individuals per ML;J. Van Wichelen
